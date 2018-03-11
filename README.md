@@ -1,2 +1,3 @@
 # htaccess-gzip-browser-cache
-Front end tools
+
+.htacces for Leverage Browser Cache and Enable GZip compression
